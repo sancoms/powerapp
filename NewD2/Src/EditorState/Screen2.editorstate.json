@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Screen1": {
+    "Screen2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Fill",
@@ -20,7 +20,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Screen1",
+      "Name": "Screen2",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -69,5 +69,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Screen1"
+  "TopParentName": "Screen2"
 }

@@ -1,14 +1,2 @@
 Screen1 As screen:
 
-    Label1 As label:
-        Text: ="Text"
-        X: =40
-        Y: =40
-        ZIndex: =1
-
-    Label2 As label:
-        Text: ="Text"
-        X: =1103
-        Y: =40
-        ZIndex: =2
-
