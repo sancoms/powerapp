@@ -1,11 +1,5 @@
 Screen1 As screen:
 
-    Label1 As label:
-        Text: ="Text"
-        X: =40
-        Y: =40
-        ZIndex: =1
-
     "BarcodeReader1 As 'Barcode Reader'":
         BorderFillColor: =RGBA(47, 81, 151, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
