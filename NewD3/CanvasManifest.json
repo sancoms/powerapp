@@ -41,7 +41,7 @@
       "enablepcfmoderndatasets": true,
       "enablepowerautomatepane": true,
       "enablerowscopeonetonexpand": false,
-      "enablerpawarecomponentdependency": false,
+      "enablerpawarecomponentdependency": true,
       "enablerulespanel": false,
       "enableruntimepolicies": false,
       "enablesaveloadcleardataonweb": false,
@@ -84,7 +84,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "ContainsThirdPartyPcfControls": false,
@@ -101,7 +101,7 @@
     "FileID": "c9a5442d-27ab-466f-bb47-3a2bf832983d",
     "Id": "c9a5442d-27ab-466f-bb47-3a2bf832983d",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "",
+    "LocalDatabaseReferences": "{}",
     "Name": "App",
     "OriginatingVersion": "1.330"
   },
