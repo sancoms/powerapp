@@ -4,12 +4,13 @@
   "ControlUniqueIds": {
     "App": 1,
     "Label1": 5,
+    "Label2": 6,
     "Screen1": 3,
     "Screen2": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/04/2023 08:37:47",
+  "HeaderLastSavedDateTimeUTC": "04/04/2023 08:43:19",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -27,6 +28,7 @@
   "OverridablePropertiesEntry": {
     "App": {},
     "Label1": {},
+    "Label2": {},
     "Screen1": {},
     "Screen2": {}
   },
@@ -35,6 +37,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "Label1": 4,
+    "Label2": 0,
     "Screen1": 2,
     "Screen2": 3
   },
@@ -42,12 +45,12 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0109851,
+    "AnalysisLoadTime": 0.045281,
     "ControlCount": {
       "label": 1,
       "screen": 2
     },
-    "DeserializationLoadTime": 0.04524,
+    "DeserializationLoadTime": 0.5710787,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
